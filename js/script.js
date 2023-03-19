@@ -90,6 +90,6 @@ function loader() {
   document.querySelector(".loader-container").classList.add("fade-out");
 }
 function fadeOut() {
-  setInterval(loader, 1500);
+  setInterval(loader, 100);
 }
 window.onload = fadeOut;
