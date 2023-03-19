@@ -2,7 +2,7 @@ let localDishes = [
   {
     id: "ld1",
     title: "Tasty Tikka",
-    image: "/images/dish-1.png",
+    image: "./images/dish-1.png",
     price: "101.99",
     ratting: 4,
     quantity: 1,
@@ -10,7 +10,7 @@ let localDishes = [
   {
     id: "ld2",
     title: "Tasty Pizza",
-    image: "/images/dish-2.png",
+    image: "./images/dish-2.png",
     price: "32.99",
     ratting: 3,
     quantity: 1,
@@ -18,7 +18,7 @@ let localDishes = [
   {
     id: "ld3",
     title: "Tasty Burger",
-    image: "/images/dish-3.png",
+    image: "./images/dish-3.png",
     price: "20.99",
     ratting: 4,
     quantity: 1,
@@ -26,7 +26,7 @@ let localDishes = [
   {
     id: "ld4",
     title: "Tasty Broast",
-    image: "/images/dish-4.png",
+    image: "./images/dish-4.png",
     price: "140.99",
     ratting: 5,
     quantity: 1,
@@ -34,7 +34,7 @@ let localDishes = [
   {
     id: "ld5",
     title: "Tasty Icecream",
-    image: "/images/dish-5.png",
+    image: "./images/dish-5.png",
     price: "50.99",
     ratting: 2,
     quantity: 1,
@@ -42,7 +42,7 @@ let localDishes = [
   {
     id: "ld6",
     title: "Tasty Boti",
-    image: "/images/dish-6.png",
+    image: "./images/dish-6.png",
     price: "60.99",
     ratting: 4,
     quantity: 1,
